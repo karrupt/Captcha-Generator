@@ -3,11 +3,11 @@ To Generate Captcha Randomly
 
 ___
 Image Used as **Captcha background** (Currently Empty)
-![Captcha less](images\captcha_background.png "Empty Image With no Captcha")
+![Captcha less](images\\captcha_background.png "Empty Image With no Captcha")
 ___
 
 **Image After Captcha Generations**
-![Captcha Image](images\captchaimage.png "Randomly Generated Captcha ")
+![Captcha Image](images\\captchaimage.png "Randomly Generated Captcha ")
 ```
 Generations pattern
 First Character-> a-z
