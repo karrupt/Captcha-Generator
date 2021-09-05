@@ -4,10 +4,13 @@ To Generate Captcha Randomly
 ___
 Image Used as **Captcha background** (Currently Empty)
 ![Captcha less](https://github.com/proacher/Captcha-Generator/blob/main/images/captcha_background.png "Empty Image With no Captcha")
+
 ___
 
+
 **Image After Captcha Generations**
-![Captcha Image](https://github.com/proacher/Captcha-Generator/blob/main/images/captchaimage.png "Randomly Generated Captcha ")
+![Captcha Image](https://github.com/proacher/Captcha-Generator/blob/main/images/captchaimage.png "Randomly Generated Captcha")
+___
 ```
 Generations pattern
 First Character-> a-z
