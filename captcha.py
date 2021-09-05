@@ -1,6 +1,7 @@
 #Captcha
 from PIL import Image, ImageDraw, ImageFont
 import random
+
 def getCaptchaText(n= 5):
 	digits = [str(x) for x in range(10)]
 	small_case = [chr(x) for x in range(97,123)]
